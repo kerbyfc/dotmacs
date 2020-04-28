@@ -1,6 +1,6 @@
 # dotemacs
 
-This is my personal KISS Emacs config.
+This is fork of https://github.com/bling/dotemacs.git KISS Emacs config.
 
 # intro
 
