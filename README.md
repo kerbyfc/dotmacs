@@ -69,7 +69,7 @@ By combining `after`, `require-package`, and `auto-mode-alist`, packages are ins
 
 # install
 
-`git clone https://github.com/bling/dotemacs.git ~/.emacs.d`
+`git clone https://github.com/kerbyfc/dotemacs.git ~/.emacs.d`
 
 # disclaimer
 
